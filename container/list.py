@@ -43,6 +43,3 @@ print(clgo_students_list)
 # 遍历
 for name in clgo_students_list:
     print(name)
-
-SjtuPeople newPeople = new StjuPeople("刘祎骏"， 28)
-print(newPeople.name)
